@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I'm currently a Ph.D. in Ed Quantitative Methods. I hold an M.S. in Statistics.
-You can find me on LinkedIn.
+I'm a Ph.D. student in Quantitative Methods in Education, with an M.S. in Statistics. I'm on LinkedIn if you'd like to connect.
 
 ---
 
