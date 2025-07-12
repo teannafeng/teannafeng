@@ -6,12 +6,11 @@ You can find me on LinkedIn.
 ---
 
 ## 🔍 Research Interests
+
 - Measurement
-- Process data analysis
-- Statistical computing
-- Psychometrics and Item Response Theory
+- Process Data Analysis  
+- Statistical Computing & Programming  
   
----
 
 ## 🛠️ Tools & Languages
 
