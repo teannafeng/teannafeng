@@ -1,15 +1,16 @@
 # Hi there 👋
 
-I'm pursuing a Ph.D. in Educational Quantitative Methods. I hold an M.S. in Statistics.
+I'm currently a Ph.D. in Ed Quantitative Methods. I hold an M.S. in Statistics.
 You can find me on LinkedIn.
 
 ---
 
 ## 🔍 Research Interests
 - Measurement
-- Process data
+- Process data analysis
 - Statistical computing
-
+- Psychometrics and Item Response Theory
+  
 ---
 
 ## 🛠️ Tools & Languages
