@@ -4,6 +4,13 @@ I'm a Ph.D. student in Quantitative Methods in Education with an M.S. in Statist
 
 ---
 
+## 🗂️ What's This Space About
+
+This space is where I track:
+- Code and materials from my published research papers — see repos starting with [paper-](https://github.com/teannafeng?tab=repositories&q=paper-)
+- Learning notes on methods and tools — see repos starting with [book-](https://github.com/teannafeng?tab=repositories&q=book-)
+- Occasional (private) side projects
+
 ## 🔍 Research Interests
 
 - Measurement
@@ -18,13 +25,6 @@ I'm a Ph.D. student in Quantitative Methods in Education with an M.S. in Statist
 - flexMIRT
 - LaTeX
 - Git & GitHub
-
-## 🗂️ What's This Space About
-
-This space is where I track:
-- Code and materials from my published research papers — see repos starting with [paper-](https://github.com/teannafeng?tab=repositories&q=paper-)
-- Learning notes on methods and tools — see repos starting with [book-](https://github.com/teannafeng?tab=repositories&q=book-)
-- Occasional (private) side projects
 
 ---
 
