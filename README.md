@@ -8,7 +8,7 @@ I'm a Ph.D. student in Quantitative Methods in Education with an M.S. in Statist
 
 This space is where I track:
 - Code and materials from my published research papers — see repos starting with [paper-](https://github.com/teannafeng?tab=repositories&q=paper-)
-- Learning notes on methods and tools — see repos starting with [book-](https://github.com/teannafeng?tab=repositories&q=book-)
+- Learning notes on methods and tools — see repos starting with [example-](https://github.com/teannafeng?tab=repositories&q=example-)
 - Occasional (private) side projects
 
 ## 🔍 Research Interests
