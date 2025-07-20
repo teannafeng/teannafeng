@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I work on Quantitative Methods in Education, with a background in Statistics. You can find me on LinkedIn or check out my academic work on [<img src="assets/scholar-icon.svg" width="20" alt="Google Scholar"/>](https://scholar.google.com/citations?user=AZpbAa4AAAAJ).
+I work on Quantitative Methods in Education, with a background in Statistics. 
+You can find me on LinkedIn or check out my academic work on [<img src="assets/scholar-icon.svg" width="20" alt="Google Scholar"/>](https://scholar.google.com/citations?user=AZpbAa4AAAAJ).
 
 ---
 
