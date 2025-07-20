@@ -15,8 +15,8 @@ This space is where I track:
 ## 🔍 Research Interests
 
 - Measurement
-- Process Data Analysis
-- Statistical Computing & Programming
+- Process data analysis
+- Statistical computing & programming
 
 ## 🛠️ Tools & Languages
 
