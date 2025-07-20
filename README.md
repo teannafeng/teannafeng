@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm a Ph.D. student in Quantitative Methods in Education with an M.S. in Statistics at UCLA. I'm on LinkedIn if you'd like to connect.
+I work on Quantitative Methods in Education, with a background in Statistics. Feel free to connect with me on LinkedIn.
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Scholar_logo.svg" width="20"/> Google Scholar](https://scholar.google.com/citations?user=AZpbAa4AAAAJ)
 
 ---
 
