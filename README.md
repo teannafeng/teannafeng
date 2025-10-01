@@ -8,8 +8,8 @@ You can find me on LinkedIn or check out my academic work on [Google Scholar](ht
 ## 🗂️ What's This Space About
 
 This space is where I track:
-- **Research Companion Code:** Materials linked or shared in my published research papers (see repos starting with [paper-](https://github.com/teannafeng?tab=repositories&q=paper-))
-- **Method Tutorials & Demos:** Hands-on examples of computational and statistical methods (see repos starting with [example-](https://github.com/teannafeng?tab=repositories&q=example-))
+- **Research Code:** Materials related to or shared in my (published) research papers (see repos starting with [paper-](https://github.com/teannafeng?tab=repositories&q=paper-))
+- **Method Tutorials:** Hands-on examples of computational and statistical methods (see repos starting with [example-](https://github.com/teannafeng?tab=repositories&q=example-))
 - **Exploratory Projects:** Projects on educational games and simulations, with implemented event-based telemetry and analytics pipeline to track and analyze user interactions
 
 ## 🔍 Research Interests
