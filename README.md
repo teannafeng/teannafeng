@@ -12,15 +12,15 @@ This space is where I track:
 - **Method Tutorials:** Hands-on examples of computational and statistical methods (see repos starting with [example-](https://github.com/teannafeng?tab=repositories&q=example-))
 - **Exploratory Projects:** Projects on educational games and simulations, with implemented event-based telemetry and analytics pipeline to track and analyze user interactions
 
-## 🔍 Research Interests
+## 🔍 Interests
 
 - Measurement (tech-based, games, simulations)
 - Process data analysis
 - Statistical computing & programming
 
-## 🛠️ Tools for Research
+## 🛠️ Tools
 
-- **Languages:** Python, R, LaTeX
+- **Languages:** Python, R, LaTeX, C++
 - **Probabilistic Programming:** Stan, JAGS, NumPyro
 - **Psychometric Software:** flexMIRT
 - **Others:** Git & GitHub
