@@ -14,8 +14,8 @@ This space is where I track:
 
 ## 🔍 Interests
 
-- Measurement (tech-based, games, simulations)
-- Process data analysis
+- Measurement (technology-based, games, simulations)
+- Process data (telemetry) analysis, intensive longitudinal data modeling, and interaction data analytics
 - Statistical computing & programming
 
 ## 🛠️ Tools
