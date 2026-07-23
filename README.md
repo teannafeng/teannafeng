@@ -1,24 +1,24 @@
-# Hi there 👋
+# Hi there
 
-I work on Quantitative Methods in Education, with a background in Statistics and Cognitive Science. 
+I am an Assistant Professor in the Division of Games at the University of Utah. Trained in statistics, psychometrics, and cognitive science, I work at the intersection of quantitative methods, (game) telemetry / process data, and measurement science.
 You can find me on LinkedIn or check out my academic work on [Google Scholar](https://scholar.google.com/citations?user=AZpbAa4AAAAJ).
 
 ---
 
-## 🗂️ What's This Space About
+##  What's This Space About
 
 This space is where I track:
 - **Research Code:** Materials related to or shared in my research papers (see repos starting with [paper-](https://github.com/teannafeng?tab=repositories&q=paper-))
 - **Method Tutorials:** Hands-on examples of computational and statistical methods (see repos starting with [example-](https://github.com/teannafeng?tab=repositories&q=example-))
 - **Exploratory Projects:** Projects on educational games and simulations, with implemented event-based telemetry and analytics pipeline to track and analyze user interactions
 
-## 🔍 Interests
+## Interests
 
 - Measurement (technology-based, games, simulations)
 - Process data (telemetry) analysis, intensive longitudinal data modeling, and interaction data analytics
 - Statistical computing & programming
 
-## 🛠️ Tools
+## Tools
 
 - **Languages:** Python, R, LaTeX, C++
 - **Probabilistic Programming:** Stan, JAGS, NumPyro
