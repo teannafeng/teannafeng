@@ -1,4 +1,4 @@
-I am an Assistant Professor in the [Division of Games](https://games.utah.edu/) at the University of Utah. Trained in statistics, psychometrics, and cognitive science, I work at the intersection of quantitative methods, (game) telemetry / process data, and measurement science.
+I am an Assistant Professor in the [Division of Games](https://games.utah.edu/) at the University of Utah. Trained in statistics, psychometrics, and cognitive science, I work at the intersection of quantitative methods, telemetry / process data, and game-based measurement.
 You can find me on LinkedIn or check out my academic work on [Google Scholar](https://scholar.google.com/citations?user=AZpbAa4AAAAJ).
 
 ---
